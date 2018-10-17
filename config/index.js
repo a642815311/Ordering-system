@@ -9,7 +9,7 @@ module.exports = {
 
     // Paths
     assetsSubDirectory: 'static',
-    assetsPublicPath: './',
+    assetsPublicPath: 'https://a642815311.github.io/Ordering-system/dist.index.html',
     proxyTable: {},
 
     // Various Dev Server settings
